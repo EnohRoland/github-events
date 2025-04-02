@@ -12,7 +12,7 @@ on:
     branches:
       - main # main branch
       - 'dev-*' # starting with dev-1, dev-2
-      - 'feature/**' # starting with feature/ feature/new feature/old
+      - 'feature/**' # starting with feature/ feature/new feature/
      
 jobs:
   deploy:
